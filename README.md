@@ -1,1 +1,0 @@
-# Self-organizing-Software-Platform
