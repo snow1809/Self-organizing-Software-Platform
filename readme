@@ -1,5 +1,15 @@
 
-GitHub ID 공유
+folder 설명
+  - textbook_seminar : 교재 발표 자료 업로드
+  - sources : chapter 하위폴더 생성 후 python(jupyter), dataset 파일 업로드
+  - paper_seminar : 논문 발표 자료 업로드
+  * 발표 시 반드시 실제 테스트한 코드 돌려보기 (원격 등으로...)
+
+교재 조사
+  https://goo.gl/forms/IAGQGsQ3ILIUEWjf2
+  - 한글버전 or 영문버전 선택
+
+GitHub ID
   https://docs.google.com/forms/d/1xofRUK9uqBFF1UzKLHk7w84vQA82fTUOyNo0BBjGqPQ/edit#responses
   - 이름 / 과정(박사1, 석사1)
   - GitHub ID / GitHub email
