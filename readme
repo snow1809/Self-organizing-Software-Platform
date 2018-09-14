@@ -2,8 +2,9 @@
 folder 설명
   - textbook_seminar : 교재 발표 자료 업로드
   - sources : chapter 하위폴더 생성 후 python(jupyter), dataset 파일 업로드
-  * 발표 시 반드시 실제 테스트한 코드 돌려보기 (원격 등으로...)
+    * 발표 시 반드시 실제 테스트한 코드 돌려보기 (원격 등으로...)
   - paper_seminar : 논문 발표 자료 업로드
+  - nvidia_tutorial : NVIDIA Jetson 보드에서 실행 가능한 튜토리얼 예제
 
 
 GitHub ID
@@ -16,8 +17,10 @@ GitHub ID
   https://docs.google.com/spreadsheets/d/1mAw-9T6Vf2dkZ9bIKc4RSd3VWDYjq8Ej6G1ysQTHhdc/edit?usp=sharing
   - 발표할 논문에 이름 작성
   - 분야가 다를 경우 새로운 논문 추가 후 이름 작성 가능
-  - 작성 기한 : ~9.17(월)
-  - 미작성 시 임의 배정 예정
 
+
+* NVIDIA 예제 발표도 진행할 예정
+* 발표 주제 및 담당자, 일정은 수업 시간에 논의하여 결정 예정
+  
 
 
