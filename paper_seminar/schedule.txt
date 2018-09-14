@@ -3,7 +3,6 @@
   공은주 Deep learning for health informatics
     
 10.2
-  손태용 Big Data, Smart Homes and Ambient Assisted Living
   김동우 Model-Based Testing IoT Communication via Active Automata Learning
   
   
