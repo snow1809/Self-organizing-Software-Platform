@@ -3,7 +3,7 @@
   공은주 Deep learning for health informatics
     
 10.2
-  김동우 Model-Based Testing IoT Communication via Active Automata Learning
+  
   
   
   
