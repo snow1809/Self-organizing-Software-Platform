@@ -3,7 +3,7 @@ chapter 1 - 조동훈
 
 chapter 2 - pass
 
-chapter 3 - 서민우
+chapter 3 - 서민우, 허국호
 
 chapter 4 - 정지호
 
@@ -19,7 +19,7 @@ chapter 9 - pass
 
 chapter 10 - 원경재
 
-chapter 11 - 허국호
+chapter 11 
 
 chapter 12
 
